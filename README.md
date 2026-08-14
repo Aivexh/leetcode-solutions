@@ -1,5 +1,5 @@
 # leetcode-solutions
-My LeetCode solutions and DSA practice in Python.
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
