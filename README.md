@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aivexh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aivexh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
