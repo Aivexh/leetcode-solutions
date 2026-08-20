@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 <!---LeetCode Topics End-->
