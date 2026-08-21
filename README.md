@@ -34,6 +34,7 @@
 | [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 | [0014-longest-common-prefix](https://github.com/Aivexh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 ## Bit Manipulation
 |  |
@@ -104,4 +108,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
