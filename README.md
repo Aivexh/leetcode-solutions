@@ -33,6 +33,7 @@
 | [0029-divide-two-integers](https://github.com/Aivexh/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 ## Bit Manipulation
 |  |
