@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/Aivexh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aivexh/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
@@ -69,6 +70,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
