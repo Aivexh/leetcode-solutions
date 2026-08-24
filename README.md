@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -36,6 +37,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aivexh/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -97,6 +99,7 @@
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +125,20 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
