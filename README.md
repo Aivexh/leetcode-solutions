@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -178,4 +179,5 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
