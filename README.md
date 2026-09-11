@@ -20,6 +20,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -31,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -79,6 +81,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,4 +192,8 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
