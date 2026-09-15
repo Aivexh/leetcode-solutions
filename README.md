@@ -69,6 +69,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0018-4sum](https://github.com/Aivexh/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Aivexh/leetcode-solutions/tree/master/0061-rotate-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aivexh/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3693-climbing-stairs-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
