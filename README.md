@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +73,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
@@ -107,6 +109,7 @@
 | [0016-3sum-closest](https://github.com/Aivexh/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aivexh/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aivexh/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -227,6 +230,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
