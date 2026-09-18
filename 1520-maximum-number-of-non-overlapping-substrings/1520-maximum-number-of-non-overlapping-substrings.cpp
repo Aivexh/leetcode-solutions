@@ -1,15 +1,17 @@
 class Solution {
 public:
     vector<string> maxNumOfSubstrings(string s) {
+
         int n = s.size();
 
-        // first[i] = first occurrence of character i
-        // last[i]  = last occurrence of character i
+        // first[c] = first position of character c
+        // last[c]  = last position of character c
         vector<int> first(26, n);
         vector<int> last(26, -1);
 
-        // Find first and last occurrence of every character
+        // Find first and last occurrence
         for (int i = 0; i < n; i++) {
+
             int c = s[i] - 'a';
 
             first[c] = min(first[c], i);
@@ -18,10 +20,10 @@ public:
 
         vector<pair<int, int>> intervals;
 
-        // Try to create a valid substring for every character
+        // Try every character as the starting character
         for (int c = 0; c < 26; c++) {
 
-            // Character does not exist
+            // Character doesn't exist
             if (last[c] == -1)
                 continue;
 
@@ -30,29 +32,29 @@ public:
 
             bool valid = true;
 
-            // Expand the interval if necessary
+            // Check all characters inside [l, r]
             for (int i = l; i <= r; i++) {
 
                 int x = s[i] - 'a';
 
-                // This character appeared before l.
-                // Therefore we cannot make a valid substring
-                // starting at l.
+                // x occurs before l,
+                // so this substring cannot be valid
                 if (first[x] < l) {
                     valid = false;
                     break;
                 }
 
-                // We must include all occurrences of x
+                // We must include all x's
                 r = max(r, last[x]);
             }
 
+            // Store valid interval
             if (valid) {
                 intervals.push_back({l, r});
             }
         }
 
-        // Earliest ending interval first
+        // Earlier ending interval first
         sort(intervals.begin(), intervals.end(),
              [](auto &a, auto &b) {
                  return a.second < b.second;
@@ -60,15 +62,18 @@ public:
 
         vector<string> ans;
 
-        int end = -1;
+        int previousEnd = -1;
 
-        // Greedy interval selection
+        // Greedily choose non-overlapping intervals
         for (auto [l, r] : intervals) {
 
-            // Non-overlapping
-            if (l > end) {
-                ans.push_back(s.substr(l, r - l + 1));
-                end = r;
+            if (l > previousEnd) {
+
+                ans.push_back(
+                    s.substr(l, r - l + 1)
+                );
+
+                previousEnd = r;
             }
         }
 
