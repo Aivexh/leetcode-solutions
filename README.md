@@ -52,6 +52,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aivexh/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -137,6 +138,7 @@
 | [0115-distinct-subsequences](https://github.com/Aivexh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -238,4 +240,16 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
