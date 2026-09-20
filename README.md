@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [0835-image-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -34,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/Aivexh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -72,6 +74,7 @@
 | [0065-valid-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0065-valid-number) |
 | [0091-decode-ways](https://github.com/Aivexh/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Aivexh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aivexh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -138,6 +142,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/Aivexh/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Aivexh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/Aivexh/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -170,6 +175,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
@@ -254,4 +260,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
