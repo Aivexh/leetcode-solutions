@@ -19,6 +19,7 @@
 | [0835-image-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -40,6 +41,7 @@
 | [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -129,6 +131,7 @@
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aivexh/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aivexh/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Aivexh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
