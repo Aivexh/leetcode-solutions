@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Aivexh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -42,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Aivexh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -131,6 +133,7 @@
 | [0016-3sum-closest](https://github.com/Aivexh/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aivexh/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Aivexh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aivexh/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
