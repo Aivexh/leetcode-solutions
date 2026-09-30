@@ -35,6 +35,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aivexh/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Aivexh/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3904-smallest-stable-index-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aivexh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aivexh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Aivexh/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Aivexh/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
