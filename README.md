@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Aivexh/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0835-image-overlap](https://github.com/Aivexh/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aivexh/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -127,6 +128,7 @@
 | [0018-4sum](https://github.com/Aivexh/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Aivexh/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aivexh/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aivexh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aivexh/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aivexh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aivexh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aivexh/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aivexh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -302,4 +306,12 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
