@@ -88,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/Aivexh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aivexh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Aivexh/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Aivexh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Aivexh/leetcode-solutions/tree/master/0065-valid-number) |
@@ -166,12 +167,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Aivexh/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Aivexh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Aivexh/leetcode-solutions/tree/master/0139-word-break) |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aivexh/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
