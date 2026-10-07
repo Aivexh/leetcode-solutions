@@ -98,6 +98,7 @@
 | [0224-basic-calculator](https://github.com/Aivexh/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aivexh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aivexh/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aivexh/leetcode-solutions/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Aivexh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
