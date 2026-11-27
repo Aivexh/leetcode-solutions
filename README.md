@@ -45,6 +45,7 @@
 | [3866-first-unique-even-element](https://github.com/Aivexh/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3904-smallest-stable-index-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Aivexh/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aivexh/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Aivexh/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aivexh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aivexh/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aivexh/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aivexh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
